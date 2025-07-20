@@ -23,6 +23,7 @@ Este proyecto es el frontend de una aplicación de notas desarrollada con [Vite]
 
 El frontend se conecta con un backend Node.js desplegado en [Render](https://render.com/). Puedes encontrar el repositorio del backend [aquí](https://github.com/LdgonzalezAP/NodeProy) 
 Se utilizó  MongoDB Atlas para la base de Datos
+
 La URL base de la API se define mediante una variable de entorno:
 
 ```env
